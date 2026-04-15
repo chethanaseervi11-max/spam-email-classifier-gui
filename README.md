@@ -39,7 +39,7 @@ python main.py
 
 
 
-https://github.com/user-attachments/assets/e3c8197c-f046-4646-9eea-d9d8822d6a6b
+https://youtu.be/RaSg_LpuFd8
 
 
 
